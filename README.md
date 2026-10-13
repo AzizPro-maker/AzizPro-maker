@@ -93,7 +93,7 @@ Diploma (D3) in Informatics Engineering  2023 - 2026
 
 | Tahun | Nama Sertifikasi | Penerbit |
 | :---: | :--- | :--- |
-| 2025 | GenAi for SEO: A Hands-On Playbook | IBM |
+| 2026 | GenAi for SEO: A Hands-On Playbook | IBM |
 | 2025 | Mobile Apps Development | LSP UDINUS |
 | 2024 | Junior Web Development | LSP UDINUS |
 
