@@ -119,6 +119,10 @@ Diploma (D3) in Informatics Engineering
 
 2023 – 2026
 
+Science High School
+
+2020 - 2023
+
 ---
 
 ## 📜 Professional Certifications
