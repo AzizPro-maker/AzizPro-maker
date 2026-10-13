@@ -89,6 +89,14 @@ A personal portfolio project showcasing my work and development interests.
 **Universitas Dian Nuswantoro (UDINUS)**  
 Diploma (D3) in Informatics Engineering  2023 - 2026
 
+## Professional Certifications
+
+| Tahun | Nama Sertifikasi | Penerbit |
+| :---: | :--- | :--- |
+| 2025 | GenAi for SEO: A Hands-On Playbook | IBM |
+| 2025 | Mobile Apps Development | LSP UDINUS |
+| 2024 | Junior Web Development | LSP UDINUS |
+
 ## Let's Connect
 
 - GitHub: [@AzizPro-maker](https://github.com/AzizPro-maker)
