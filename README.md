@@ -39,7 +39,7 @@ I enjoy turning requirements into practical applications with clear functionalit
 
 **Frameworks & Development**
 
-![Laravel](https://img.shields.io/badge/Laravel-181717?style=flat-square&logo=laravel)
+![Laravel](https://img.shields.io/badge/Laravel-FFFFFF?style=flat-square&logo=laravel&logoColor=red)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
