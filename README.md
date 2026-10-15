@@ -135,6 +135,36 @@ Science High School
 
 ---
 
+## 🛄 Professional Journey
+
+<table width="100%">
+  <tr>
+    <td width="24%" valign="top"><b>August 2026 - Present</b></td>
+    <td width="76%" valign="top">
+      <b>IT Progamer - Hospital Islam Muhammadiyah Kendal</b><br />
+      Developing the workflow and ERM module, Resolve Bug in the ERM module,
+      Developing a module on E-Resep, develop resume results on E-RM and E-Resep.
+    </td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top"><b>Sept 2025 - Dec 2025</b></td>
+    <td width="76%" valign="top">
+      <b>Intern in IT Business Solution & Rotation - PT. Lubricants Grha Pertamina Indonesia</b><br />
+      System Analysis, Feature Development web application, integration Making sure the app that's built is connected to the Idaman SSO authentication system to ensure secure access.
+    </td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top"><b>2024 - 2025</b></td>
+    <td width="76%" valign="top">
+      <b>Logical Thinkink - Informatics Engineering Student Association</b><br />
+      Led organizational activities while completing the Diploma in Informatics Engineering.
+    </td>
+  </tr>
+</table>
+<br />
+
+---
+
 ## 💡 Development Interests
 
 - Full-stack web application development
